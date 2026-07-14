@@ -1,0 +1,6 @@
+[submodule "buy-list-api"]
+	path = buy-list-api
+	url = git@github.com:Wallace-F-Rosa/buy-list-api.git
+[submodule "buylist-web"]
+	path = buylist-web
+	url = git@github.com:Wallace-F-Rosa/buylist-web.git
